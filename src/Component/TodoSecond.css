@@ -1,0 +1,19 @@
+.list-item{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    background-color: pink;
+    padding: 10px 40px;
+}
+.list-item li{
+    list-style-type: none;
+    padding-top: 10px;
+    
+}
+.list-item button{
+    background-color: yellowgreen;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    
+}

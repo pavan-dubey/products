@@ -1,0 +1,15 @@
+.list-item ul{
+    display:  flex;
+}
+.list-item ul li{
+    list-style-type: none;
+}
+.list-item ul li a{
+    padding-right: 50px;
+    text-decoration: none;
+}
+.img-cont{
+    display: flex;
+    justify-content: space-between;
+   
+}
